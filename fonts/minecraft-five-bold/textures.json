@@ -73,6 +73,12 @@
       "variant": {
         "smeared_pastel": {}
       }
+    },
+    "netherite": {
+      "author": "MCAlexisYT",
+      "variant": {
+        "gilded_netherite": {}
+      }
     }
   },
   "overlays": {
