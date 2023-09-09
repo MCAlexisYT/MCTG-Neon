@@ -69,16 +69,10 @@
       "author": "Ninjaabdullah"
     },
     "pastel": {
-      "author": "MCAlexisYT",
-      "variant": {
-        "smeared_pastel": {}
-      }
+      "author": "MCAlexisYT"
     },
     "netherite": {
-      "author": "MCAlexisYT",
-      "variant": {
-        "gilded_netherite": {}
-      }
+      "author": "MCAlexisYT"
     }
   },
   "overlays": {
